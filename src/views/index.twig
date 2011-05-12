@@ -1,0 +1,21 @@
+{% extends "base.twig" %}
+
+{% block title %}Hall of Fame{% endblock %}
+
+{% block content %}
+    <div class="span-24">
+        <p class="right">
+            They shall grow not old, As we that are left grow old / Age shall not weary them, Nor the years condemn / </br>
+            At the going down of the sun / And in the morning / We will remember them.
+        </p>
+    </div>
+    {% for person in people %}
+    <div class="span-24">
+        <div class="person">
+            <a href="/{{person.id}}"><img src="images/people/{{person.image}}" alt="{{person.name}}" /></a>
+            <div class="details"><div class="name">{{person.name}}</div></div>
+        </div>
+    </div>
+    <hr />
+    {% endfor %}
+{% endblock %}

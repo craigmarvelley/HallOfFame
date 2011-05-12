@@ -1,0 +1,18 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="en">
+<head>
+    <title>{% block title %}{% endblock %}</title>
+    <link href="/blueprint/screen.css" rel="stylesheet" type="text/css" /> 
+    <!--link href="/blueprint/print.css" rel="stylesheet" type="text/css" /--> 
+    <link href="/blueprint/ie.css" rel="stylesheet" type="text/css" /> 
+    <link href="/css/app.css" rel="stylesheet" type="text/css" /> 
+</head>
+<body>
+    <div class="container">
+  	<div class="span-24 title">
+            <a href="/"><span class="large">Hall of Fame</span></a>
+  	</div>
+
+  	{% block content %}{% endblock %}
+  </div>
+</body>

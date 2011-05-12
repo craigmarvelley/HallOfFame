@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<people>
+    <person id="jonesy">
+        <name>Jonsey</name>
+        <image>jonesy.jpg</image>
+        <service>2009-2011</service>
+        <quotes>
+            <quote>
+                14:08 (jonesy) what's the difference between CONTENT and CONETNT_45?<br />
+                14:08 (rod) no idea.<br />
+                14:59 Disconnected<br />
+                15:41 Disconnected<br />
+                16:14 (jonesy) one has _45 at the end<br />
+                16:14 (rod) that was pretty much the longest joke ever<br />
+                16:17 (jonesy) the longest, unfunniest joke eva!
+            </quote>
+        </quotes>
+    </person>
+</people>

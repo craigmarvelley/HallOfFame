@@ -1,0 +1,20 @@
+.right {
+    text-align: right;
+}
+.details {
+    float: right;
+    text-align: right;
+}
+.title {
+    font-size: 2em;
+}
+.name {
+    font-size: 7em;
+}
+.service {
+    font-size: 4em;
+}
+.title a {
+    text-decoration: none;
+    color: #000;
+}
