@@ -15,14 +15,14 @@ $app->register(new Silex\Extension\TwigExtension(), array(
 $app->get('/', function () use ($app) {
     
     $document = simplexml_load_file(__DIR__.'/people.xml');
-    $people = $document->xpath('/people');
+    $people = $document->xpath('//person');
     $peopleArray = array();
     
     foreach ($people as $person) {
         $array = array(
-            'id' => $person->person->attributes()->id,
-            'name' => $person->person->name,
-            'image' => $person->person->image,
+            'id' => $person->attributes()->id,
+            'name' => $person->name,
+            'image' => $person->image,
         );
         
         array_push($peopleArray, $array);

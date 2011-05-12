@@ -6,6 +6,7 @@
         <service>2009-2011</service>
         <quotes>
             <quote>
+                <![CDATA[
                 14:08 (jonesy) what's the difference between CONTENT and CONETNT_45?<br />
                 14:08 (rod) no idea.<br />
                 14:59 Disconnected<br />
@@ -13,6 +14,21 @@
                 16:14 (jonesy) one has _45 at the end<br />
                 16:14 (rod) that was pretty much the longest joke ever<br />
                 16:17 (jonesy) the longest, unfunniest joke eva!
+                ]]>
+            </quote>
+        </quotes>
+    </person>
+    <person id="john">
+        <name>John</name>
+        <image>john.jpg</image>
+        <service>2010-2011</service>
+        <quotes>
+            <quote>
+                <![CDATA[
+                [09:38] joncram: hi bendavies<br />
+                [09:39] -->|	ben_ (~bendavies@77.108.153.99) has joined #dev<br />
+                [09:39] john: psychic joncram.
+                ]]>
             </quote>
         </quotes>
     </person>
