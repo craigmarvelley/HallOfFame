@@ -47,8 +47,8 @@ $app->get('/{id}', function ($id) use ($app) {
     $person = $result[0];
     
     $quotes = array();
-    foreach ($person->quotes as $quote) {
-        $quotes[] = (string)$quote->quote;
+    foreach ($person->quotes->quote as $quote) {
+        $quotes[] = (string)$quote;
     }
     
     $array = array(

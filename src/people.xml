@@ -32,4 +32,55 @@
             </quote>
         </quotes>
     </person>
+    <person id="paul">
+        <name>Paul</name>
+        <image>pipi.jpg</image>
+        <service>2006-2011</service>
+        <quotes>
+            <quote>
+                <![CDATA[
+                22:25 < sean> no one's logged into ORR at the moment are they?<br />
+                22:26 < paul> the pirates social network?
+                ]]>
+            </quote>
+            <quote1>
+                <![CDATA[
+                [05/03/2010 14:20:53] Paul: hi jen<br />
+                [05/03/2010 14:20:59] Paul: i bring bad news<br />
+                [05/03/2010 14:21:06] Paul: the toilet is rammed
+                ]]>
+            </quote1>
+            <quote>
+                <![CDATA[
+                [11:47:24] Gavin Davies: is there much difference between:<br />
+                Serial ATA-300<br />
+                Serial ATA-150 ?<br />
+                [11:51:46] Paul: about 150
+                ]]>
+            </quote>
+            <quote>
+                <![CDATA[
+                Paul P: This isn't rocket-science, Dylan; this is murder.
+                ]]>
+            </quote>
+            <quote>
+                <![CDATA[
+                Carey: You need to power cycle that printer<br />
+                Dave: Power cycle?!<br />
+                Paul: This isn't Star Trek, Carey
+                ]]>
+            </quote>
+            <quote>
+                <![CDATA[
+                Paul: "Man up and take a monkey to the balls!"
+                ]]>
+            </quote>
+            <quote>
+                <![CDATA[
+                <paul> in IT in school we made skynet<br />
+                <paul> but when it came self aware it started touching up girls and got expelled
+                ]]>
+            </quote>
+        </quotes>
+    </person>
 </people>
