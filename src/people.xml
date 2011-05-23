@@ -1,34 +1,68 @@
 <?xml version="1.0"?>
 <people>
     <person id="jonesy">
-        <name>Jonsey</name>
-        <image>jonesy.jpg</image>
-        <service>2009-2011</service>
+        <name>Robbo</name>
+        <image>robbo.jpg</image>
+        <service>2001-2011</service>
         <quotes>
             <quote>
-                <![CDATA[
-                14:08 (jonesy) what's the difference between CONTENT and CONETNT_45?<br />
-                14:08 (rod) no idea.<br />
-                14:59 Disconnected<br />
-                15:41 Disconnected<br />
-                16:14 (jonesy) one has _45 at the end<br />
-                16:14 (rod) that was pretty much the longest joke ever<br />
-                16:17 (jonesy) the longest, unfunniest joke eva!
-                ]]>
+                robbo: i woke up the other day covered in marmite
             </quote>
-        </quotes>
-    </person>
-    <person id="john">
-        <name>John</name>
-        <image>john.jpg</image>
-        <service>2010-2011</service>
-        <quotes>
             <quote>
-                <![CDATA[
-                [09:38] joncram: hi bendavies<br />
-                [09:39] -->|	ben_ (~bendavies@77.108.153.99) has joined #dev<br />
-                [09:39] john: psychic joncram.
-                ]]>
+                10:08 robbo: last night's checklist: get wasted, fight with paul, crash wedding, be obnoxious to a poor hardworking security guard, ride bike into lamppost, lose sunglasses<br />
+                10:08 robbo: ticked em all
+            </quote>
+            <quote>
+                rich: i'm taking a bag of mince to dempseys later in an attempt to woo that barmaid
+            </quote>
+            <quote>
+                Rich: A bit gay is cool; girls love that.
+            </quote>
+            <quote>
+                Rich R: "That smells like quality sausage!"
+            </quote>
+            <quote>
+                [2:50:23 AM] Rich: i can't stop looking at the # on the top of james' penis
+            </quote>
+            <quote>
+                [10:20:50] Rich (Prince of all developers): when is everyone going to realise that web apps are totally pointless?
+            </quote>
+            <quote>
+                Rich: ok. oh yeah, i'm in the top 5% of swearers. apologies if i offended anyone...
+            </quote>
+            <quote>
+                Rich: dylan! when you're fucking offline, appear offline / don't fucking appear online all the fucking time / what's fucking wrong with you? / oops / that's what happens when you sink a load of wine and try to insult prost
+            </quote>
+            <quote>
+                Rich Robinson (Prince of All Developers): "I never use the thumb on anything but the bottom"
+            </quote>
+            <quote>
+                Rich_r: "I like to break into mens' houses and bathe them at gunpoint."
+            </quote>
+            <quote>
+                Rich_r (Prince of All Developers): "You should have heard me screaming on my kitchen floor the other week"
+            </quote>
+            <quote>
+                Rich: "It's not a bag for life once you've done THAT to it..."
+            </quote>
+            <quote>
+                (During a conversation regarding coding styles, specifically Dan B's prefixing of params with 'p_')<br />
+                Rich R: "We know about your pee, Dan B!"
+            </quote>
+            <quote>
+                Paul: "What the hell is that? A giant grape?"<br />
+                Rich: "No... it's a plum P-L-U-M"
+            </quote>
+            <quote>
+                Rich: "I can't take more than two balls at any one time..."
+            </quote>
+            <quote>
+                After picking up a pound coin in the street.<br />
+                Rich R: What's the minimum amount of money you'd bend over for?
+            </quote>
+            <quote>
+                After picking up a pound coin in the street.<br />
+                Rich R: What's the minimum amount of money you'd bend over for?
             </quote>
         </quotes>
     </person>
@@ -79,6 +113,38 @@
                 <![CDATA[
                 <paul> in IT in school we made skynet<br />
                 <paul> but when it came self aware it started touching up girls and got expelled
+                ]]>
+            </quote>
+        </quotes>
+    </person>
+    <person id="john">
+        <name>John</name>
+        <image>john.jpg</image>
+        <service>2010-2011</service>
+        <quotes>
+            <quote>
+                <![CDATA[
+                [09:38] joncram: hi bendavies<br />
+                [09:39] -->|	ben_ (~bendavies@77.108.153.99) has joined #dev<br />
+                [09:39] john: psychic joncram.
+                ]]>
+            </quote>
+        </quotes>
+    </person>
+    <person id="jonesy">
+        <name>Jonesy</name>
+        <image>jonesy.jpg</image>
+        <service>2009-2011</service>
+        <quotes>
+            <quote>
+                <![CDATA[
+                14:08 (jonesy) what's the difference between CONTENT and CONETNT_45?<br />
+                14:08 (rod) no idea.<br />
+                14:59 Disconnected<br />
+                15:41 Disconnected<br />
+                16:14 (jonesy) one has _45 at the end<br />
+                16:14 (rod) that was pretty much the longest joke ever<br />
+                16:17 (jonesy) the longest, unfunniest joke eva!
                 ]]>
             </quote>
         </quotes>
